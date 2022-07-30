@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RajIshu07?label=Follow)](https://twitter.com/intent/follow?screen_name=RajIshu07)
-[![Linkedin: Raj Ishu](https://img.shields.io/badge/-Raj Ishu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/rajishu7/)](https://www.linkedin.com/in/rajishu7/)
+[![Linkedin: Raj Ishu](https://img.shields.io/badge/-RajIshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/rajishu7/)](https://www.linkedin.com/in/rajishu7/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
