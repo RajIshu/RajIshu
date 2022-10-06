@@ -17,7 +17,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raftaar_._/)
 
 
-## My Developer Forums
+## <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50"> My Developer Forums
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
