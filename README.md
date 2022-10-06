@@ -7,7 +7,7 @@
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/gokuishu57)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/rajishu/)
 
-&nbsp;
+
 ## &#x1F44B; Connect with Me
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajIshu07)
@@ -16,6 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raftaar_._/)
 
 
+&nbsp;
 ## <img src="https://github.com/RajIshu/RajIshu/blob/main/trophy.gif" width="30"/> GitHub Trophies
 
 <!-- ## 	:trophy:GitHub Trophies -->
