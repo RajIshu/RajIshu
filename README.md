@@ -17,7 +17,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raftaar_._/)
 
 
-&nbsp;
+<!-- &nbsp; -->
 ## <img src="https://github.com/RajIshu/RajIshu/blob/main/trophy.gif" width="30"/> GitHub Trophies
 
 <!-- ## 	:trophy:GitHub Trophies -->
