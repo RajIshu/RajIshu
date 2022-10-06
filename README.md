@@ -18,7 +18,7 @@
 
 ## 	:trophy:GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RajIshu&theme=radical&row=2&column=3)](https://github.com/RajIshu)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RajIshu&theme=radical&row=1)](https://github.com/RajIshu)
 
 <!--
 **RajIshu/RajIshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
