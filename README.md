@@ -9,7 +9,7 @@
 
 <!-- &nbsp; -->
   
-## &#x1F44B; Connect with Me <img src="https://github.com/RajIshu/RajIshu/blob/main/skeleton.gif" width="50">
+## &#x1F44B; Connect with Me <img src="https://github.com/RajIshu/RajIshu/blob/main/eatingskeleton.gif" width="50">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajIshu07)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajishu7/)
