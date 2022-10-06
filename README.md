@@ -16,7 +16,9 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raftaar_._/)
 
 
-## 	:trophy:GitHub Trophies
+## <img src="https://emojis.slackmojis.com/emojis/13343-trophy" width="30"/> GitHub Trophies
+
+<!-- ## 	:trophy:GitHub Trophies -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RajIshu&theme=radical&row=1)](https://github.com/RajIshu)
 
