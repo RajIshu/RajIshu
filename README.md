@@ -16,7 +16,10 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ishu.raj.9849/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raftaar_._/)
 
-[![Twitter Badge](https://img.shields.io/twitter/url?color=1DA1F2&label=TWITTER&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FTwitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite)
+
+## My Developer Forums
+
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 
 <!-- &nbsp; -->
