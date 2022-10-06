@@ -16,7 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raftaar_._/)
 
 
-## GitHub Trophies
+## 	:trophy:GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
