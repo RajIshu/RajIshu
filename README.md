@@ -9,7 +9,7 @@
 
 <!-- &nbsp; -->
   
-## &#x1F44B; Connect with Me
+## &#x1F44B; Connect with Me <img src="https://github.com/RajIshu/RajIshu/blob/main/skeleton.gif" width="50">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajIshu07)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajishu7/)
@@ -26,7 +26,7 @@
 
 
 &nbsp;
-## 📝 Blog <img src="https://i.gifer.com/YQDs.gif" width="50">
+## 📝 Blog <img src="https://github.com/RajIshu/RajIshu/blob/main/writing-hand.gif" width="50">
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rajishu.medium.com/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rajishu)
 
