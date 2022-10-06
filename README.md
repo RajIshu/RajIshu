@@ -16,6 +16,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raftaar_._/)
 
 
+GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **RajIshu/RajIshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
