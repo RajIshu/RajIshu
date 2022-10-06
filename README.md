@@ -23,7 +23,12 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gokuishu57/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gokuishu57/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13664011/raj-ishu)
+
+
+&nbsp;
+## <img src="https://github.com/RajIshu/RajIshu/blob/main/typingcat.gif" width="50"/> Blog
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rajishu.medium.com/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rajishu)
 
 &nbsp;
 ## <img src="https://github.com/RajIshu/RajIshu/blob/main/trophy.gif" width="30"/> GitHub Trophies
