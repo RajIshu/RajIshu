@@ -26,7 +26,7 @@
 
 
 &nbsp;
-## <img src="https://github.com/RajIshu/RajIshu/blob/main/typingcat.gif" width="50"/> Blog
+## 📝 Blog
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rajishu.medium.com/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rajishu)
 
