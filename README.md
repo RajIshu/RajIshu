@@ -17,6 +17,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raftaar_._/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokuishu57@gmail.com)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 &nbsp;
 <!-- ## <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50" height="40"/> Developer Forums -->
 ## <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50" height="45"/> Developer Forums
@@ -46,7 +48,7 @@
 <!-- ## Contributions
 ![Snake animation](https://github.com/RajIshu/RajIshu/blob/output/github-contribution-grid-snake.svg) -->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 
 <p align="center"> 
   Visitor count<br>
