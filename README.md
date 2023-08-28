@@ -19,7 +19,7 @@
 
 &nbsp;
 <!-- ## <img src="https://github.com/RajIshu/RajIshu/blob/main/monophy.gif" width="50"/> Developer Forums -->
-## ![Screenshot](https://github.com/RajIshu/RajIshu/blob/main/monophy.gif) Developer Forums
+## ![](https://github.com/RajIshu/RajIshu/blob/main/monophy.gif) Developer Forums
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gokuishu57/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gokuishu57/)
