@@ -18,8 +18,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokuishu57@gmail.com)
 
 &nbsp;
-<!-- ## <img src="https://github.com/RajIshu/RajIshu/blob/main/monophy.gif" width="50"/> Developer Forums -->
-## ![](https://github.com/RajIshu/RajIshu/blob/main/monophy.gif) Developer Forums
+## <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmonophy.com%2Fgifs%2Fdeveloper-dev-software-H83F4AfL798AmtKXIL&psig=AOvVaw3aB65C_MFwwQqrEan6BgVi&ust=1693337729867000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLD82syNgIEDFQAAAAAdAAAAABAQ" width="50" height="50"/> Developer Forums
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gokuishu57/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gokuishu57/)
