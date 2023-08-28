@@ -18,7 +18,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokuishu57@gmail.com)
 
 &nbsp;
-## <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmonophy.com%2Fgifs%2Fdeveloper-dev-software-H83F4AfL798AmtKXIL&psig=AOvVaw3aB65C_MFwwQqrEan6BgVi&ust=1693337729867000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLD82syNgIEDFQAAAAAdAAAAABAQ" width="50" height="50"/> Developer Forums
+<!-- ## <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50" height="40"/> Developer Forums -->
+## <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50"/> Developer Forums
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gokuishu57/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gokuishu57/)
@@ -26,13 +27,13 @@
 
 
 &nbsp;
-## 📝 Blog <img src="https://github.com/RajIshu/RajIshu/blob/main/writingpencil.gif" width="50">
+## 📝 Blog <img src="https://media.giphy.com/media/wKyRjf4ngjYX6rJhVS/giphy.gif" width="50">
+<!-- ## <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50"/> Blog <img src="https://github.com/RajIshu/RajIshu/blob/main/writingpencil.gif" width="50"> -->
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rajishu.medium.com/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rajishu)
 
 &nbsp;
-## <img src="https://github.com/RajIshu/RajIshu/blob/main/trophy.gif" width="30"/> GitHub Trophies
-
+## <img src="https://media.giphy.com/media/Exc9GvjitUCPczepZe/giphy.gif" width="50"/> GitHub Trophies
 <!-- ## 	:trophy:GitHub Trophies -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RajIshu&theme=radical&row=1)](https://github.com/RajIshu)
