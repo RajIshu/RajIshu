@@ -38,9 +38,23 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RajIshu&theme=radical&row=1)](https://github.com/RajIshu)
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C234%20hrs%2044%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1653-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+
+<!--END_SECTION:waka-->
 
 ## Contributions
-<a href=#><img src="contributions.svg"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="contributions.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="contributions.svg" />
+  <img alt="github-snake" src="contributions.svg" />
+</picture>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <p align="center"> 
   Visitor count<br>
