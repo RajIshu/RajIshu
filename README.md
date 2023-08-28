@@ -19,7 +19,7 @@
 
 &nbsp;
 <!-- ## <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50" height="40"/> Developer Forums -->
-## <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50"/> Developer Forums
+## <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50" height="45"/> Developer Forums
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gokuishu57/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gokuishu57/)
